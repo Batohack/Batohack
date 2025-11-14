@@ -1,10 +1,15 @@
 
 
-## Salut moi c'est **Batohack**,<br/>
-Un étudiant en informatique passionné par la cybersécurité, <br/>
-et plus précisément par les tests d'intrusion. <br/>
+##  **Batohack**,<br/>
+Network and Security | Cybersecurity | Pentesting| Devops <br/>
 
-J'aime explorer et apprendre pour renforcer mes compétences dans ce domaine fascinant.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🌐 Où me retrouver :
+- [LinkedIn](https://www.linkedin.com/in/dorian-batosine-tchouho-ab8098322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+- [TikTok](https://www.tiktok.com/@doriantchouho?_t=ZM-8ukEgbbOJ1C&_r=1) 
+- [Instagram](https://www.instagram.com/dorianbatosine?igsh=MWIxc3g0OXNnYThxNg==) 
+
 
 
 # 💻 Technologies utilisées :
@@ -25,12 +30,4 @@ J'aime explorer et apprendre pour renforcer mes compétences dans ce domaine fas
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Batohack&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-## 🌐 Où me retrouver :
-- [LinkedIn](https://www.linkedin.com/in/dorian-batosine-tchouho-ab8098322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
-- [TikTok](https://www.tiktok.com/@doriantchouho?_t=ZM-8ukEgbbOJ1C&_r=1) 
-- [Instagram](https://www.instagram.com/dorianbatosine?igsh=MWIxc3g0OXNnYThxNg==) 
-
 
