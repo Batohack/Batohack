@@ -22,8 +22,6 @@ Network and Security | Cybersecurity | Pentesting| Devops <br/>
 ## 🏆 Trophées GitHub
 ![](https://github-profile-trophy.vercel.app/?username=Batohack&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️Citation aléatoire pour développeurs
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Dépôt le plus contribué
 ![](https://github-contributor-stats.vercel.app/api?username=Batohack&limit=5&theme=dark&combine_all_yearly_contributions=true)
